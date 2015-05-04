@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1 tvg-id = "" tvg-name = "Первый канал" tvg-logo = "",Первый канал
+http://rostelec.noip.me:1234/udp/233.7.70.203:5000
+#EXTINF:-1 tvg-id = "2" tvg-name = "Россия 1" tvg-logo = "",Россия 1
+http://rostelec.noip.me:1234/udp/239.1.128.34:5000
+#EXTINF:-1,Россия 2
+http://rostelec.noip.me:1234/udp/233.7.70.172:5000
+#EXTINF:-1,Россия 24
+http://rostelec.noip.me:1234/udp/233.7.70.68:5000
+#EXTINF:-1,LifeNews
+http://rostelec.noip.me:1234/udp/233.7.70.76:5000
+#EXTINF:-1,СТС Мир
+http://rostelec.noip.me:1234/udp/239.1.128.45:5000
+#EXTINF:-1,ТНТ iptv.servzp.pp.ua
+http://rostelec.noip.me:1234/udp/233.7.70.65:5000
+#EXTINF:-1,5 канал
+http://rostelec.noip.me:1234/udp/233.7.70.60:5000
+#EXTINF:-1,РЕН ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.132:5000
+#EXTINF:-1,Звезда
+http://rostelec.noip.me:1234/udp/233.7.70.69:5000
+#EXTINF:-1,ТВ3
+http://rostelec.noip.me:1234/udp/233.7.70.220:5000
+#EXTINF:-1,ТВЦ
+http://rostelec.noip.me:1234/udp/233.7.70.219:5000
+#EXTINF:-1,Мир
+http://rostelec.noip.me:1234/udp/233.7.70.58:5000
+#EXTINF:-1,Мир 24
+http://rostelec.noip.me:1234/udp/233.7.70.120:5000
+#EXTINF:-1,РБК
+http://rostelec.noip.me:1234/udp/233.7.70.22:5000
+#EXTINF:-1,Euronews
+http://rostelec.noip.me:1234/udp/233.7.70.42:5000
+#EXTINF:-1,Ю
+http://rostelec.noip.me:1234/udp/233.7.70.73:5000
+#EXTINF:-1,Перец
+http://rostelec.noip.me:1234/udp/233.7.70.66:5000
+#EXTINF:-1,Россия К
+http://rostelec.noip.me:1234/udp/233.7.70.61:5000
+#EXTINF:-1,Пятница!
+http://rostelec.noip.me:1234/udp/233.7.70.175:5000
+#EXTINF:-1,Boomerang
+http://rostelec.noip.me:1234/udp/233.7.70.187:5000
+#EXTINF:-1,Gulli
+http://rostelec.noip.me:1234/udp/233.7.70.171:5000
+#EXTINF:-1,TiJi
+http://rostelec.noip.me:1234/udp/233.7.70.101:5000
+#EXTINF:-1,JimJam
+http://rostelec.noip.me:1234/udp/233.7.70.148:5000
+#EXTINF:-1,Nick Jr.
+http://rostelec.noip.me:1234/udp/233.7.70.169:5000
+#EXTINF:-1,Канал Disney
+http://rostelec.noip.me:1234/udp/233.7.70.9:5000
+#EXTINF:-1,Cartoon Network
+http://rostelec.noip.me:1234/udp/233.7.70.102:5000
+#EXTINF:-1,Nickelodeon
+http://rostelec.noip.me:1234/udp/233.7.70.97:5000
+#EXTINF:-1,Карусель
+http://rostelec.noip.me:1234/udp/233.7.70.40:5000
+#EXTINF:-1,Мульт
+http://rostelec.noip.me:1234/udp/233.7.70.57:5000
+#EXTINF:-1,Телеканал Деда Мороза
+http://rostelec.noip.me:1234/udp/233.7.70.189:5000
+#EXTINF:-1,Детский
+http://rostelec.noip.me:1234/udp/233.7.70.99:5000
+#EXTINF:-1,Детский мир + Телеклуб
+http://rostelec.noip.me:1234/udp/233.7.70.234:5000
+#EXTINF:-1,Baby TV
+http://rostelec.noip.me:1234/udp/233.7.70.188:5000
+#EXTINF:-1,2x2
+http://rostelec.noip.me:1234/udp/233.7.70.43:5000
+#EXTINF:-1 tvg-id = "300010" tvg-name = "Fox Crime" tvg-logo = "",FOX
+http://rostelec.noip.me:1234/udp/233.7.70.154:5000
+#EXTINF:-1,FOX Life
+http://rostelec.noip.me:1234/udp/233.7.70.85:5000
+#EXTINF:-1,Amedia I
+http://rostelec.noip.me:1234/udp/233.7.70.214:5000
+#EXTINF:-1,CBS Drama
+http://rostelec.noip.me:1234/udp/233.7.70.232:5000
+#EXTINF:-1,CBS Reality
+http://rostelec.noip.me:1234/udp/233.7.70.231:5000
+#EXTINF:-1,Paramount Channel
+http://rostelec.noip.me:1234/udp/233.7.70.113:5000
+#EXTINF:-1,Paramount Comedy
+http://rostelec.noip.me:1234/udp/233.7.70.227:5000
+#EXTINF:-1,TV1000
+http://rostelec.noip.me:1234/udp/233.7.70.36:5000
+#EXTINF:-1,TV1000 Action
+http://rostelec.noip.me:1234/udp/233.7.70.59:5000
+#EXTINF:-1,TV1000 Русское кино
+http://rostelec.noip.me:1234/udp/233.7.70.67:5000
+#EXTINF:-1,Universal Channel
+http://rostelec.noip.me:1234/udp/233.7.70.151:5000
+#EXTINF:-1,Кино ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.167:5000
+#EXTINF:-1,НТВ+ Кино Плюс
+http://rostelec.noip.me:1234/udp/233.7.70.247:5000
+#EXTINF:-1,НТВ+ Кино Союз
+http://rostelec.noip.me:1234/udp/233.7.70.248:5000
+#EXTINF:-1,НТВ+ Наше Кино
+http://rostelec.noip.me:1234/udp/233.7.70.249:5000
+#EXTINF:-1,НТВ+ Новое Кино
+http://rostelec.noip.me:1234/udp/233.7.70.250:5000
+#EXTINF:-1,Русский Бестселлер
+http://rostelec.noip.me:1234/udp/233.7.70.176:5000
+#EXTINF:-1,Русский Детектив
+http://rostelec.noip.me:1234/udp/233.7.70.190:5000
+#EXTINF:-1,Иллюзион+
+http://rostelec.noip.me:1234/udp/233.7.70.62:5000
+#EXTINF:-1,Русский Иллюзион
+http://rostelec.noip.me:1234/udp/233.7.70.155:5000
+#EXTINF:-1,Феникс Плюс Кино
+http://rostelec.noip.me:1234/udp/233.7.70.86:5000
+#EXTINF:-1,Русский роман
+http://rostelec.noip.me:1234/udp/233.7.70.153:5000
+#EXTINF:-1,Еврокино
+http://rostelec.noip.me:1234/udp/233.7.70.235:5000
+#EXTINF:-1 tvg-id = "291" tvg-name = "Комедия ТВ" tvg-logo = "",Комедия
+http://rostelec.noip.me:1234/udp/233.7.70.80:5000
+#EXTINF:-1,XXI
+http://rostelec.noip.me:1234/udp/233.7.70.35:5000
+#EXTINF:-1,SET
+http://rostelec.noip.me:1234/udp/233.7.70.70:5000
+#EXTINF:-1,Sony Sci-Fi
+http://rostelec.noip.me:1234/udp/233.7.70.184:5000
+#EXTINF:-1,Sony Turbo
+http://rostelec.noip.me:1234/udp/233.7.70.166:5000
+#EXTINF:-1,MGM
+http://rostelec.noip.me:1234/udp/233.7.70.205:5000
+#EXTINF:-1,MTV Dance
+http://rostelec.noip.me:1234/udp/233.7.70.207:5000
+#EXTINF:-1,MTV Hits
+http://rostelec.noip.me:1234/udp/233.7.70.208:5000
+#EXTINF:-1,MTV Rocks
+http://rostelec.noip.me:1234/udp/233.7.70.209:5000
+#EXTINF:-1,MTV Россия
+http://rostelec.noip.me:1234/udp/233.7.70.202:5000
+#EXTINF:-1,Mezzo
+http://rostelec.noip.me:1234/udp/233.7.70.204:5000
+#EXTINF:-1,MCM TOP
+http://rostelec.noip.me:1234/udp/233.7.70.109:5000
+#EXTINF:-1,Music Box
+http://rostelec.noip.me:1234/udp/233.7.70.53:5000
+#EXTINF:-1,RU.TV
+http://rostelec.noip.me:1234/udp/233.7.70.94:5000
+#EXTINF:-1,VH1
+http://rostelec.noip.me:1234/udp/233.7.70.152:5000
+#EXTINF:-1,VH1 Classic
+http://rostelec.noip.me:1234/udp/233.7.70.229:5000
+#EXTINF:-1 tvg-id = "557" tvg-name = "Ля-Минор" tvg-logo = "",Ля-Минор
+http://rostelec.noip.me:1234/udp/233.7.70.108:5000
+#EXTINF:-1,Муз ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.137:5000
+#EXTINF:-1 tvg-id = "300054" tvg-name = "Шансон ТВ" tvg-logo = "",Шансон ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.107:5000
+#EXTINF:-1,Rusong TV
+http://rostelec.noip.me:1234/udp/233.7.70.228:5000
+#EXTINF:-1,Bridge TV
+http://rostelec.noip.me:1234/udp/233.7.70.110:5000
+#EXTINF:-1,A-One
+http://rostelec.noip.me:1234/udp/233.7.70.52:5000
+#EXTINF:-1,Europa Plus TV
+http://rostelec.noip.me:1234/udp/233.7.70.196:5000
+#EXTINF:-1,Russian Music Box
+http://rostelec.noip.me:1234/udp/233.7.70.54:5000
+#EXTINF:-1,24 DOC
+http://rostelec.noip.me:1234/udp/233.7.70.181:5000
+#EXTINF:-1,24 Техно
+http://rostelec.noip.me:1234/udp/233.7.70.89:5000
+#EXTINF:-1,Amazing Life
+http://rostelec.noip.me:1234/udp/233.7.70.21:5000
+#EXTINF:-1,Animal Planet
+http://rostelec.noip.me:1234/udp/233.7.70.30:5000
+#EXTINF:-1,Da Vinci Learning
+http://rostelec.noip.me:1234/udp/233.7.70.63:5000
+#EXTINF:-1,Discovery Channel
+http://rostelec.noip.me:1234/udp/233.7.70.26:5000
+#EXTINF:-1 tvg-id = "224" tvg-name = "Discovery Science" tvg-logo = "",Discovery Science
+http://rostelec.noip.me:1234/udp/233.7.70.27:5000
+#EXTINF:-1 tvg-id = "223" tvg-name = "Discovery World" tvg-logo = "",Discovery World
+http://rostelec.noip.me:1234/udp/233.7.70.28:5000
+#EXTINF:-1,ID Xtra
+http://rostelec.noip.me:1234/udp/233.7.70.192:5000
+#EXTINF:-1,TLC
+http://rostelec.noip.me:1234/udp/233.7.70.29:5000
+#EXTINF:-1,Nat Geo Wild
+http://rostelec.noip.me:1234/udp/233.7.70.223:5000
+#EXTINF:-1,National Geographic Channel
+http://rostelec.noip.me:1234/udp/233.7.70.32:5000
+#EXTINF:-1,Nautical Channel
+http://rostelec.noip.me:1234/udp/233.7.70.84:5000
+#EXTINF:-1,Ocean TV
+http://rostelec.noip.me:1234/udp/233.7.70.95:5000
+#EXTINF:-1,Outdoor
+http://rostelec.noip.me:1234/udp/233.7.70.226:5000
+#EXTINF:-1,History
+http://rostelec.noip.me:1234/udp/233.7.70.185:5000
+#EXTINF:-1,Travel+ Adventure
+http://rostelec.noip.me:1234/udp/233.7.70.119:5000
+#EXTINF:-1,Viasat Explore
+http://rostelec.noip.me:1234/udp/233.7.70.33:5000
+#EXTINF:-1,Viasat History
+http://rostelec.noip.me:1234/udp/233.7.70.88:5000
+#EXTINF:-1,Viasat Nature
+http://rostelec.noip.me:1234/udp/233.7.70.103:5000
+#EXTINF:-1,Zooпарк
+http://rostelec.noip.me:1234/udp/233.7.70.90:5000
+#EXTINF:-1,Живи!
+http://rostelec.noip.me:1234/udp/233.7.70.105:5000
+#EXTINF:-1,Здоровое ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.49:5000
+#EXTINF:-1,История
+http://rostelec.noip.me:1234/udp/233.7.70.173:5000
+#EXTINF:-1,Моя планета
+http://rostelec.noip.me:1234/udp/233.7.70.71:5000
+#EXTINF:-1,Наука 2.0
+http://rostelec.noip.me:1234/udp/233.7.70.243:5000
+#EXTINF:-1,Охота и рыбалка
+http://rostelec.noip.me:1234/udp/233.7.70.48:5000
+#EXTINF:-1,Драйв
+http://rostelec.noip.me:1234/udp/233.7.70.31:5000
+#EXTINF:-1,Футбол
+http://rostelec.noip.me:1234/udp/233.7.70.210:5000
+#EXTINF:-1,Спорт
+http://rostelec.noip.me:1234/udp/233.7.70.254:5000
+#EXTINF:-1,Спорт 1
+http://rostelec.noip.me:1234/udp/233.7.70.75:5000
+#EXTINF:-1,КХЛ ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.37:5000
+#EXTINF:-1,Eurosport
+http://rostelec.noip.me:1234/udp/233.7.70.45:5000
+#EXTINF:-1,Eurosport 2
+http://rostelec.noip.me:1234/udp/233.7.70.81:5000
+#EXTINF:-1,Eurosport News
+http://rostelec.noip.me:1234/udp/233.7.70.197:5000
+#EXTINF:-1,Viasat Sport
+http://rostelec.noip.me:1234/udp/233.7.70.138:5000
+#EXTINF:-1,Extreme Sports
+http://rostelec.noip.me:1234/udp/233.7.70.147:5000
+#EXTINF:-1,Russian Extreme
+http://rostelec.noip.me:1234/udp/233.7.70.139:5000
+#EXTINF:-1,НТВ+ Баскетбол
+http://rostelec.noip.me:1234/udp/233.7.70.246:5000
+#EXTINF:-1,НТВ+ Спорт Плюс
+http://rostelec.noip.me:1234/udp/233.7.70.251:5000
+#EXTINF:-1,Авто Плюс
+http://rostelec.noip.me:1234/udp/233.7.70.79:5000
+#EXTINF:-1,Motors TV
+http://rostelec.noip.me:1234/udp/233.7.70.206:5000
+#EXTINF:-1,Боец
+http://rostelec.noip.me:1234/udp/233.7.70.78:5000
+#EXTINF:-1,Бойцовский клуб
+http://rostelec.noip.me:1234/udp/233.7.70.233:5000
+#EXTINF:-1,Fashion TV
+http://rostelec.noip.me:1234/udp/233.7.70.47:5000
+#EXTINF:-1,E! Entertainment
+http://rostelec.noip.me:1234/udp/233.7.70.72:5000
+#EXTINF:-1,English Club TV
+http://rostelec.noip.me:1234/udp/233.7.70.96:5000
+#EXTINF:-1,Zee TV
+http://rostelec.noip.me:1234/udp/233.7.70.104:5000
+#EXTINF:-1,Всё ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.174:5000
+#EXTINF:-1,Food Network
+http://rostelec.noip.me:1234/udp/233.7.70.146:5000
+#EXTINF:-1,Конференция ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.55:5000
+#EXTINF:-1,Кто есть кто
+http://rostelec.noip.me:1234/udp/233.7.70.241:5000
+#EXTINF:-1,Мать и дитя
+http://rostelec.noip.me:1234/udp/233.7.70.41:5000
+#EXTINF:-1,НСТ
+http://rostelec.noip.me:1234/udp/233.7.70.74:5000
+#EXTINF:-1,Оружие
+http://rostelec.noip.me:1234/udp/233.7.70.252:5000
+#EXTINF:-1,Усадьба
+http://rostelec.noip.me:1234/udp/233.7.70.51:5000
+#EXTINF:-1,Ностальгия
+http://rostelec.noip.me:1234/udp/233.7.70.245:5000
+#EXTINF:-1,ОТР
+http://rostelec.noip.me:1234/udp/233.7.70.141:5000
+#EXTINF:-1,Вместе-РФ
+http://rostelec.noip.me:1234/udp/233.7.70.77:5000
+#EXTINF:-1,Парк развлечений
+http://rostelec.noip.me:1234/udp/233.7.70.142:5000
+#EXTINF:-1,Первый Образовательный
+http://rostelec.noip.me:1234/udp/233.7.70.23:5000
+#EXTINF:-1,Радость моя
+http://rostelec.noip.me:1234/udp/233.7.70.100:5000
+#EXTINF:-1,Раз ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.145:5000
+#EXTINF:-1,Ретро ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.44:5000
+#EXTINF:-1,Сарафан
+http://rostelec.noip.me:1234/udp/233.7.70.157:5000
+#EXTINF:-1,Успех
+http://rostelec.noip.me:1234/udp/233.7.70.34:5000
+#EXTINF:-1,Юмор TV
+http://rostelec.noip.me:1234/udp/233.7.70.46:5000
+#EXTINF:-1,Страна
+http://rostelec.noip.me:1234/udp/233.7.70.213:5000
+#EXTINF:-1,ТВ3
+http://rostelec.noip.me:1234/udp/233.7.70.221:5000
+#EXTINF:-1 tvg-id = "" tvg-name = "Первый канал" tvg-logo = "",Первый канал
+http://rostelec.noip.me:1234/udp/239.1.128.33:5000
+#EXTINF:-1,НТВ
+http://rostelec.noip.me:1234/udp/239.1.128.35:5000
+#EXTINF:-1,Россия 2
+http://rostelec.noip.me:1234/udp/239.1.128.39:5000
+#EXTINF:-1,Россия 24
+http://rostelec.noip.me:1234/udp/239.1.128.36:5000
+#EXTINF:-1,Россия К
+http://rostelec.noip.me:1234/udp/239.1.128.38:5000
+#EXTINF:-1,ТВ3
+http://rostelec.noip.me:1234/udp/239.1.128.43:5000
+#EXTINF:-1,ТВЦ
+http://rostelec.noip.me:1234/udp/239.1.128.42:5000
+#EXTINF:-1 tvg-id = "101" tvg-name = "ТНТ" tvg-logo = "",ТНТ
+http://rostelec.noip.me:1234/udp/233.7.70.118:5000
+#EXTINF:-1 tvg-id = "101" tvg-name = "ТНТ" tvg-logo = "",ТНТ
+http://rostelec.noip.me:1234/udp/239.1.128.44:5000
+#EXTINF:-1,2x2
+http://rostelec.noip.me:1234/udp/233.7.70.124:5000
+#EXTINF:-1,5 канал
+http://rostelec.noip.me:1234/udp/239.1.128.37:5000
+#EXTINF:-1,ТРО
+http://rostelec.noip.me:1234/udp/233.7.70.143:5000
+#EXTINF:-1,Ю
+http://rostelec.noip.me:1234/udp/233.7.70.92:5000
+#EXTINF:-1,Ю
+http://rostelec.noip.me:1234/udp/239.1.128.47:5000
+#EXTINF:-1,Пятница!
+http://rostelec.noip.me:1234/udp/233.7.70.198:5000
+#EXTINF:-1,Пятница!
+http://rostelec.noip.me:1234/udp/233.7.70.237:5000
+#EXTINF:-1,Пятница!
+http://rostelec.noip.me:1234/udp/239.1.128.54:5000
+#EXTINF:-1,RU.TV
+http://rostelec.noip.me:1234/udp/233.7.70.83:5000
+#EXTINF:-1,Канал Disney
+http://rostelec.noip.me:1234/udp/233.7.70.91:5000
+#EXTINF:-1,Канал Disney
+http://rostelec.noip.me:1234/udp/239.1.128.60:5000
+#EXTINF:-1,Карусель
+http://rostelec.noip.me:1234/udp/233.7.70.170:5000
+#EXTINF:-1,КХЛ ТВ
+http://rostelec.noip.me:1234/udp/233.7.70.150:5000
+#EXTINF:-1,Перец
+http://rostelec.noip.me:1234/udp/233.7.70.165:5000
+#EXTINF:-1,Звезда
+http://rostelec.noip.me:1234/udp/239.1.128.50:5000
+#EXTINF:-1,Союз
+http://rostelec.noip.me:1234/udp/233.7.70.24:5000
+#EXTINF:-1,Спас
+http://rostelec.noip.me:1234/udp/233.7.70.38:5000
+#EXTINF:-1,Просвещение
+http://rostelec.noip.me:1234/udp/233.7.70.168:5000
+#EXTINF:-1,49 канал Новосибирск
+http://rostelec.noip.me:1234/udp/239.1.128.53:5000
+#EXTINF:-1,ОТС Новосибирск
+http://rostelec.noip.me:1234/udp/239.1.128.52:5000
+#EXTINF:-1,Новосибирские новости
+http://rostelec.noip.me:1234/udp/233.7.70.111:5000
